@@ -41,4 +41,4 @@ Currently focused on building strong problem-solving skills and real-world Pytho
 ## 🔗 Links
 - LinkedIn: [www.linkedin.com/in/punyahsp27]
 - LeetCode: [https://leetcode.com/u/Punyahs_27]
-- Resume: [https://drive.google.com/file/d/1uMCPEX0Z3E1RhXBvakUIb8xXh-1V8YwL/view?usp=drive_link]
+- Resume: [https://drive.google.com/drive/folders/1Zy89SpnT9XknbZ8VyrXqK2iYAKq6dATp?usp=sharing]
