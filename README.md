@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 # 👋Hii, I'm Punya
 
-2nd Year Computer Science student interested in Cloud and AI/ML.  
+3rd Year Computer Science student interested in Cloud and AI/ML.  
 Currently focused on building strong problem-solving skills and real-world Python projects.
 
 ## 🛠 Tech Stack
 - Python (Pandas, basic data science workflows)
 - Java (intermediate)
+- Deep Learning
+- Machine Learning
 - HTML, CSS, JavaScript
 - Git & GitHub
 - Google Cloud
@@ -33,12 +35,11 @@ Currently focused on building strong problem-solving skills and real-world Pytho
 - Cloud-based applications
 
 ## 📂 Projects
-- Therapist Booking Platform – first full project
 - AI practice mini-projects
 - DSA practice repository
 - Data science experiments
+- DGA Classifier using LSTM,RF & XGBoost
 
 ## 🔗 Links
 - LinkedIn: [www.linkedin.com/in/punyahsp27]
 - LeetCode: [https://leetcode.com/u/Punyahs_27]
-- Resume: [https://drive.google.com/drive/folders/1Zy89SpnT9XknbZ8VyrXqK2iYAKq6dATp?usp=sharing]
